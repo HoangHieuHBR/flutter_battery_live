@@ -1,16 +1,15 @@
 # flutter_native_android_project
 
-A new Flutter project.
+A new Flutter project
 
-## Getting Started
+## Application Reviews
 
-This project is a starting point for a Flutter application.
+This project is a Demo about Flutter Communicate With Platform Native Code (specifically, Android Java).
 
-A few resources to get you started if this is your first Flutter project:
+There are 2 features of this application:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Show your real time battery level of your mobile phone
+- Checking the charging status (just useful for real device)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![321797436_1357831441636398_8933966817340072777_n](https://user-images.githubusercontent.com/121141914/209516358-d2dc3cf7-80f7-4ded-ab93-cc02488a0e86.jpg)
